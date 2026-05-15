@@ -27,7 +27,7 @@ Foram avaliados diferentes modelos de regressão supervisionada, incluindo:
 
 A etapa de modelagem contemplou:
 
-- divisão dos dados em **90% treino/validação** e **10% holdout**
+- divisão dos dados em 90% treino/validação e 10% holdout
 - otimização de hiperparâmetros com GridSearchCV;
 - validação cruzada utilizando TimeSeriesSplit;
 - avaliação utilizando MAE, RMSE e R².

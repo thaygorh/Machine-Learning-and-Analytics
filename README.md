@@ -73,6 +73,6 @@ O código está disponível para fins educacionais e pode ser utilizado como ref
 
 Caso utilize este material, por favor, atribua o devido crédito ao autor original:
 
-GitHub: https://github.com/thaygorh
+GitHub: https://github.com/thaygorh/Machine-Learning-and-Analytics
 
 LinkedIn: https://www.linkedin.com/in/thaygorh
